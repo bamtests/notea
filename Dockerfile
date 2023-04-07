@@ -1,1 +1,1 @@
-FROM cinwell/notea:0.4.0-alpha
+FROM cinwell/notea:main
