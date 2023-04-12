@@ -1,6 +1,6 @@
 # Notea deployed on Railway.app
 
-> Notea is a notion-like note-taking app stored on S3 and accessible via any modern web browser.
+> Notea is a markdown notion-like note-taking app stored on S3 and accessible via any modern web browser.
 > Works great as a Progressive Web App on any device.
 
 ## How to use this template
@@ -18,7 +18,7 @@ This template has pre-configured variables to use [storj.io](https://storj.io) a
     - PASSWORD=makesomethingsecure
 4. Click Deploy and wait for your notea to build and deploy
 5. A URL will be auto-generated for you that can be found in a few places in your [railway.app dashboard](https://railway.app/dashboard) 
-6. Enjoy having always synced notes!
+6. Enjoy having always synced, feature rich notes!
 
 
 **Click below to deploy!**
