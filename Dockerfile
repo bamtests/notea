@@ -1,1 +1,1 @@
-FROM cinwell/notea:latest
+FROM cinwell/notea:0.3.6
