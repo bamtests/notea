@@ -1,7 +1,7 @@
 # Notea deployed on Railway.app
 
 > Notea is a markdown notion-like note-taking app stored on S3 and accessible via any modern web browser.
-> Works great as a Progressive Web App on any device.
+> Works great as a Progressive Web App (PWA) on any device.
 
 ## How to use this template
 
