@@ -1,7 +1,12 @@
 # Notea
+___Your Self-Hosted Notion Style Note Taking App___
 
 > Notea is a markdown, notion-like note-taking app stored using compatible S3 storage and accessible via any modern web browser.
 > Works great as a Progressive Web App (PWA) on any device, including Android, iOS and iPad.
+
+**Either click this button and get on your way or take a quick peek at the instructions below first:**
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/OhFC4F?referralCode=_Fx4yk)
 
 ## How to use this template
 
@@ -22,5 +27,7 @@ This template has pre-configured variables to use [storj.io](https://storj.io) a
 
 
 **Click below to deploy!**
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/OhFC4F?referralCode=_Fx4yk)
 
 _Credit: [Notea Org](https://github.com/notea-org/notea)_
